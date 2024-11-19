@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">kotlin0.1</string>
+    <string name="btn_print">btn_print</string>
+    <string name="print">print</string>
+    <string name="mobile">mobile number</string>
+    <string name="message">Message</string>
+    <string name="next">NEXT</string>
+    <string name="close">CLOSE</string>
+    <string name="profile_info">PROFILE INFO</string>
+    <string name="phone">phone</string>
+    <string name="messagereciver">message</string>
+    <string name="back">BACK</string>
+</resources>
